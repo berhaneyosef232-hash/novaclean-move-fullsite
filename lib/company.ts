@@ -6,5 +6,5 @@ export const COMPANY = {
   whatsapp: "https://wa.me/41779437667",
   address: "Statthalterstrasse 37, 3018 Bern, Schweiz",
   opening: "Mo–Fr 07:30–18:30 · Sa 09:00–14:00",
-  regions: "Bern & Umgebung · Zürich/Winterthur & Umgebung · Schaffhausen & Umgebung",
+  regions: "Bern & Umgebung · Biel/Bienne & Umgebung · Solothurn & Umgebung · Freiburg/Fribourg & Umgebung · Zürich/Winterthur & Umgebung · Schaffhausen & Umgebung",
 };
